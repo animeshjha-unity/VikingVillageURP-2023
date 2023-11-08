@@ -36,8 +36,10 @@ MonoBehaviour:
   m_ShEvalMode: 0
   m_LightProbeSystem: 0
   m_ProbeVolumeMemoryBudget: 1024
+  m_ProbeVolumeBlendingMemoryBudget: 256
   m_SupportProbeVolumeStreaming: 0
   m_SupportProbeVolumeScenarios: 0
+  m_SupportProbeVolumeScenarioBlending: 0
   m_ProbeVolumeSHBands: 1
   m_MainLightRenderingMode: 1
   m_MainLightShadowsSupported: 1
